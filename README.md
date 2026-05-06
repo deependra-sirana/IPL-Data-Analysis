@@ -1,6 +1,7 @@
 # IPL-Data-Analysis (2008 - 2023)
 This is my first ever data analysis.
 And I chose to analyse the matches and deliveries of IPL as this would be the perfect time for it since the 2026 season is going on.
+It is live on Kaggle at "https://www.kaggle.com/code/deependrasirana/ipl-data-analysis"
 
 ## My analysis
 Open the Jupyter Notebook file named `IPL_Data_Analysis.ipynb` to see the analysis I made on the matches and deliveries data of IPL (2008 - 2023).
