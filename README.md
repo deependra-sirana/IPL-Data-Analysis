@@ -4,7 +4,7 @@ And I chose to analyse the matches and deliveries of IPL as this would be the pe
 It is live on Kaggle at "https://www.kaggle.com/code/deependrasirana/ipl-data-analysis"
 
 ## My analysis
-Open the Jupyter Notebook file named `IPL_Data_Analysis.ipynb` to see the analysis I made on the matches and deliveries data of IPL (2008 - 2023).
+Open the Jupyter Notebook file named `ipl_data_analysis.ipynb` to see the analysis I made on the matches and deliveries data of IPL (2008 - 2023).
 The analysis I have covered are:
 - **Team Performance** — Total matches won by each team across all seasons
 - **Batting Analysis** — Top 10 Run Scorers across all seasons
